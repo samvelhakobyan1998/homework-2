@@ -1,6 +1,9 @@
+DOCTYRE!
+<html>
 # homework-2
 <script>
 
+<scribt>
 <head>
 <body>
 <h1> Hello Aua <h1/>
@@ -30,5 +33,8 @@
         console.log('a is less than b');
     }
 
-</script>
-				
+<script/>
+
+<script/>
+
+<html/>
